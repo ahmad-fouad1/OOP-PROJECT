@@ -81,19 +81,3 @@ public class EcommerceSystem {
 
     }
 }
-//for (int i = 0; i < cart1.getnProducts(); i++) {
-//            System.out.println("Which product would you like to add ?  1-smartphone   2- T-shirt   3- OOP ");
-//            switch (in.nextInt()) {
-//                case 1:
-//                    cart1.addProduct(phone);
-//                    break;
-//                case 2:
-//                    cart1.addProduct(shirt);
-//                    break;
-//                case 3:
-//                    cart1.addProduct(book);
-//                    break;
-//            }
-//        }
-//        System.out.println("Would you like to place the order ? 1-Yes");
-////        cart1.placeOrder();
